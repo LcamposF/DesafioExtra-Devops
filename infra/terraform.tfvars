@@ -1,0 +1,6 @@
+resource_group_name    = "meu-grupo-de-recursos"
+location               = "brazilsouth"
+storage_account_name   = "meuarmazenamento"
+storage_account_sku    = "Standard_LRS"
+vm_admin_username      = "adminuser"
+vm_admin_password      = "minhasenha123!"
